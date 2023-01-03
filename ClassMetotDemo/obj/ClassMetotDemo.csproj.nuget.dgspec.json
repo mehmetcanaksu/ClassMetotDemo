@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mehmetcanaksu/Projects/ClassMetotDemo/ClassMetotDemo/ClassMetotDemo.csproj": {}
+  },
+  "projects": {
+    "/Users/mehmetcanaksu/Projects/ClassMetotDemo/ClassMetotDemo/ClassMetotDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/ClassMetotDemo/ClassMetotDemo.csproj",
+        "projectName": "ClassMetotDemo",
+        "projectPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/ClassMetotDemo/ClassMetotDemo.csproj",
+        "packagesPath": "/Users/mehmetcanaksu/.nuget/packages/",
+        "outputPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/ClassMetotDemo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmetcanaksu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj": {
+                "projectPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj"
+              },
+              "/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/MusteriManager.csproj": {
+                "projectPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/MusteriManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj",
+        "projectName": "Musteri",
+        "projectPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj",
+        "packagesPath": "/Users/mehmetcanaksu/.nuget/packages/",
+        "outputPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmetcanaksu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/MusteriManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/MusteriManager.csproj",
+        "projectName": "MusteriManager",
+        "projectPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/MusteriManager.csproj",
+        "packagesPath": "/Users/mehmetcanaksu/.nuget/packages/",
+        "outputPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mehmetcanaksu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj": {
+                "projectPath": "/Users/mehmetcanaksu/Projects/ClassMetotDemo/Musteri/Musteri.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

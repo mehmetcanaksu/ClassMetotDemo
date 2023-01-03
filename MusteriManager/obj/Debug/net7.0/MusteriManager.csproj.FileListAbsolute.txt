@@ -1,0 +1,15 @@
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/bin/Debug/net7.0/MusteriManager.deps.json
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/bin/Debug/net7.0/MusteriManager.dll
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/bin/Debug/net7.0/MusteriManager.pdb
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/bin/Debug/net7.0/Musteri.dll
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/bin/Debug/net7.0/Musteri.pdb
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.csproj.AssemblyReference.cache
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.AssemblyInfoInputs.cache
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.AssemblyInfo.cs
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.csproj.CoreCompileInputs.cache
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.csproj.CopyComplete
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.dll
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/refint/MusteriManager.dll
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/MusteriManager.pdb
+/Users/mehmetcanaksu/Projects/ClassMetotDemo/MusteriManager/obj/Debug/net7.0/ref/MusteriManager.dll
